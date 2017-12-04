@@ -10,3 +10,4 @@ Enjoy the Game....!
 3. Sound Effect
 4. Game Life
 5. Three (3) different level
+6. 2 differnet control - Mouse and Arrow
