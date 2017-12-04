@@ -1,0 +1,12 @@
+Open Project file for compile the game correctly.
+Enjoy the Game....!
+
+:::::::::::::::::::::::::::::::::::::::
+:::::: Game Features ::::::::
+:::::::::::::::::::::::::::::::::::::::
+
+1. New Game and Load Game
+2. High Score
+3. Sound Effect
+4. Game Life
+5. Three (3) different level
